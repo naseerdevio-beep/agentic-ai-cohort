@@ -1,8 +1,3 @@
----
-
-Here is a crisp, high-level breakdown designed for a quick classroom syllabus or project "ReadMe."
-
----
 
 ## **Project: The Autonomous Gourmet Event Planner (AGEP)**
 
