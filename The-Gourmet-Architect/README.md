@@ -99,5 +99,3 @@ We aren't just building a planner; we’re building a **Self-Evolving System**. 
 👺 **Red-Teaming:** A "Saboteur" agent will try to trick the safety checker to ensure 100% allergy security.
 🛠️ **Tool Synthesis:** If the AI doesn't have a tool, it will *write the code* to build one on the fly.
 👁️ **Visual Audit:** Using Vision models to "look" at the meal and verify it matches the recipe.
-
-*Coming soon to the FAANG PM Placement Cohort!* 💻🔥
