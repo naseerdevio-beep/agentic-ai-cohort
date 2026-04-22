@@ -4,7 +4,7 @@
 ---
 
 ## 🎯 Executive Summary
-The **AI Frontier Cohort** is a high-octane, 3-month elite residency designed to bridge the gap between academic theory and the rigorous demands of AI/ML roles at world-class technology firms. Led by **Naseer** and the **Internship Enablement Panel**, this program immerses top-tier talent in a competitive, sprint-based environment focused on building **Agentic AI Systems**.
+The **AI Frontier Cohort** is a high-octane, 2-month elite residency designed to bridge the gap between academic theory and the rigorous demands of AI/ML roles at world-class technology firms. Led by **Naseer** and the **Internship Enablement Panel**, this program immerses top-tier talent in a competitive, sprint-based environment focused on building **Agentic AI Systems**.
 
 This is not a workshop; it is a professional launchpad. Interns don’t just learn—they deliver production-grade solutions for actual clients using the latest in LLM and SLM paradigms.
 
