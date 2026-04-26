@@ -724,23 +724,40 @@ Framing: **Visibility follows publication. Opportunities follow authority.** Def
 
 The lesson splits the personal brand into two halves. **Published Presence** — the unified profile strategy that converts your projects into public artifacts. **Passionate Narrative** — the storytelling layer on top: build-in-public snippets, evidence of authentic curiosity. Posts and repos without a narrative are just noise; a narrative without artifacts is just claims. Both halves are required.
 
-## Articles to Aim Toward (by niche × role)
+## Articles to Aim Toward
 
-When you write your Medium deep-dive at the **Publish** milestone, *this* is the bar. Each entry below is a real article you can read today as a model for how a senior practitioner writes about a (niche, role) pair. Most are written by senior people at major labs. That's intimidating *and* load-bearing — your job is to produce something legible alongside them.
+When you write your Medium deep-dive at the **Publish** milestone, *this* is the bar. The labels under each entry are suggestions, not boundaries — most of these articles are useful across multiple (niche, role) pairs.
 
-| Niche × Role | Exemplar | Why it's the bar |
-|---|---|---|
-| **Agentic Loops × Agentic AI Engineer** | [Anthropic — *Building Effective Agents*](https://www.anthropic.com/research/building-effective-agents) | Opinionated taxonomy with minimal code. Pattern catalog, not a tutorial. |
-| **Agentic Loops × Forward Deployed Engineer** | [Replit — *How we built Replit Agent*](https://blog.replit.com/) | Concrete deployment war stories. Hard tradeoffs named explicitly. |
-| **FinOps × AI Platform & Data Engineer** | [Anthropic — *Prompt Caching*](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching) | Worked numbers showing real cost reductions. Operational and reproducible. |
-| **FinOps × AI Product Manager** | [Hamel Husain — *Your AI Product Needs Evals*](https://hamel.dev/blog/posts/evals/) | Frames cost / quality in product terms, not engineer terms. |
-| **Dynamic AI Data × AI Platform & Data Engineer** | [Anthropic — *Contextual Retrieval*](https://www.anthropic.com/news/contextual-retrieval) | Technical-essay shape: problem → measurement → technique → benchmarks → code. |
-| **Dynamic AI Data × Forward Deployed Engineer** | [Microsoft — *GraphRAG*](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/) | Lands a research-grade idea in enterprise language. |
-| **Multimodal × Agentic AI Engineer** | [Anthropic — *Computer Use*](https://www.anthropic.com/news/3-5-models-and-computer-use) | The "agent that perceives and acts" prose model. |
-| **Multimodal × AI Security Engineer** | [Simon Willison — *Computer Use prompt injection*](https://simonwillison.net/2024/Oct/22/computer-use/) | Adversarial analysis of multimodal screen-action systems. |
-| **Engineering Rigor × Agentic AI Engineer** | [Hamel Husain — *Your AI Product Needs Evals*](https://hamel.dev/blog/posts/evals/) | The bar for any "I built a thing and measured it" piece. |
-| **Engineering Rigor × AI Security Engineer** | [Simon Willison — *Prompt injection* series](https://simonwillison.net/tags/prompt-injection/) | The bar for security-in-public writing — specific, repro-able, no FUD. |
-| **AI Governance × Governance Engineer** | [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) + [Model Cards paper](https://arxiv.org/abs/1810.03993) | Primary regulatory and academic sources; the source documents *are* the exemplars. |
+<details>
+<summary><strong>📐 Eight exemplars to model your Publish-milestone deep-dive against →</strong></summary>
+
+- **[Anthropic — *Building Effective Agents*](https://www.anthropic.com/research/building-effective-agents)** — opinionated pattern catalog, minimal code, no tutorial fluff.
+  *Suggested for:* Agentic Loops · Agentic AI Engineer · Forward Deployed Engineer
+
+- **[Hamel Husain — *Your AI Product Needs Evals*](https://hamel.dev/blog/posts/evals/)** — the bar for any "I built a thing and measured it" piece.
+  *Suggested for:* Engineering Rigor · FinOps Stack · AI Product Manager · Agentic AI Engineer
+
+- **[Anthropic — *Contextual Retrieval*](https://www.anthropic.com/news/contextual-retrieval)** — technical-essay shape: problem → measurement → technique → benchmarks → code.
+  *Suggested for:* Dynamic AI Data · AI Platform & Data Engineer
+
+- **[Microsoft — *GraphRAG*](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)** — lands a research-grade idea in enterprise language.
+  *Suggested for:* Dynamic AI Data · Forward Deployed Engineer · AI Platform & Data Engineer
+
+- **[Simon Willison — *Prompt injection* series](https://simonwillison.net/tags/prompt-injection/)** — security-in-public done right: specific, repro-able, no FUD.
+  *Suggested for:* Engineering Rigor · Multimodal Reality · AI Security Engineer
+
+- **[Anthropic — *Computer Use*](https://www.anthropic.com/news/3-5-models-and-computer-use)** — the "agent that perceives and acts" prose model.
+  *Suggested for:* Multimodal Reality · Agentic Loops · Agentic AI Engineer
+
+- **[Anthropic — *Prompt Caching docs*](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)** — worked numbers showing real cost reductions; operational and reproducible.
+  *Suggested for:* FinOps Stack · AI Platform & Data Engineer
+
+- **[NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) + [Model Cards paper](https://arxiv.org/abs/1810.03993)** — primary regulatory and academic sources; the source documents *are* the exemplars.
+  *Suggested for:* AI Governance, Ethics & Compliance Engineer
+
+Most of these are written by senior people at major labs. That's intimidating *and* load-bearing — your job by Publish is to produce something legible alongside them.
+
+</details>
 
 ## Week 1 Assignments
 
