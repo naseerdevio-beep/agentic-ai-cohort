@@ -165,6 +165,16 @@ To make the assignment concrete, here is one student's prompt for upgrading the 
 
 Notice what this prompt does well. It separates strategic planning (Architect, high temperature) from grounded execution (Executor, low temperature) from validation (Critic, zero temperature) from safety (Verifier, zero temperature). It defines the loop's exit conditions, both successful and failure. It specifies a concrete test case the system has to pass, which means the prompt itself encodes its own acceptance criteria. This is the level of design intent the assignment is asking you to bring.
 
+#### A reference implementation: AGEP
+
+For an example of what the assignment looks like fully built out, see [github.com/IrfanThomson/agep](https://github.com/IrfanThomson/agep) — a four-agent Plan-Act-Reflect dinner-event planner on Google ADK, iterated v1 → v2 (adversarial Saboteur agent) → v3 (post-loop Chef stage producing a cookable plan). The repo includes a 6-minute explainer video walking through the architecture and the loop in action:
+
+[![AGEP explainer (6:39)](https://img.youtube.com/vi/Q2C8U8drwak/hqdefault.jpg)](https://youtu.be/Q2C8U8drwak)
+
+▶ [Watch the AGEP explainer (6:39)](https://youtu.be/Q2C8U8drwak)
+
+Use it the way you would use a worked solution in a math textbook: study the structure, notice the design choices, then build your own version differently.
+
 The three assignments are intentionally interlocking. The role tells you who you are becoming. The niche tells you what you are becoming known for. The app upgrade tells you how the work actually feels. None of them work in isolation.
 
 ## The Quality Deep Work Framework
