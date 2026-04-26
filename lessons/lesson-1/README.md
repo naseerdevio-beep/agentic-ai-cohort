@@ -2,7 +2,9 @@
 
 ## Video Overview
 
-[![Lesson 1 Video Overview](https://img.youtube.com/vi/7tlHGuO9Vnw/maxresdefault.jpg)](https://youtu.be/7tlHGuO9Vnw)
+[![Lesson 1 Video Overview](https://img.youtube.com/vi/7tlHGuO9Vnw/hqdefault.jpg)](https://youtu.be/7tlHGuO9Vnw)
+
+▶ [Watch on YouTube: Lesson 1 Video Overview](https://youtu.be/7tlHGuO9Vnw)
 
 ## The Central Thesis
 
