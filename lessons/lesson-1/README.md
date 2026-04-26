@@ -1,5 +1,9 @@
 # Lesson 1: The Agentic Shift and the Shape of the Cohort
 
+## Video Overview
+
+[![Lesson 1 Video Overview](https://img.youtube.com/vi/7tlHGuO9Vnw/maxresdefault.jpg)](https://youtu.be/7tlHGuO9Vnw)
+
 ## The Central Thesis
 
 The cohort opens with a single argument: AI engineering has crossed a threshold, and the work that pays now is not the work that paid two years ago. The era of the linear chatbot, a prompt in and a completion out, has collapsed into something more demanding. What sits in front of you is the **Agentic Shift**, the move from request-response systems to self-healing, multi-modal, autonomous agentic systems with measurable ROI.
