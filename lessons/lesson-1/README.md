@@ -6,9 +6,35 @@
 
 ▶ [Watch on YouTube: Lesson 1 Video Overview](https://youtu.be/7tlHGuO9Vnw)
 
-## How to use this article
+*Each section opens with the slide's takeaway. The **▼ Detailed breakdown** boxes expand to the slide content, **📚 Further reading** links, and a **🎓 Socratic study prompt** you can paste into Claude or ChatGPT.*
 
-Each major section opens with a one-line takeaway from the slide. Click the **▼ Detailed breakdown** boxes to expand the slide content, **Further reading** links, and a **Socratic study prompt** you can paste into Claude or ChatGPT to talk through the material with an AI tutor.
+## Contents
+
+- [The Central Thesis](#the-central-thesis)
+- [The Six-Milestone Roadmap](#the-six-milestone-roadmap)
+- [The Five Foundational Concepts](#the-five-foundational-concepts)
+  - [I. Agentic Loops](#i-agentic-loops)
+  - [II. The FinOps Stack](#ii-the-finops-stack)
+  - [III. Dynamic AI Data](#iii-dynamic-ai-data)
+  - [IV. Multimodal Reality](#iv-multimodal-reality)
+  - [V. Engineering Rigor](#v-engineering-rigor)
+- [The Six AI Engineering Roles](#the-six-ai-engineering-roles)
+  - [Agentic AI Engineer](#agentic-ai-engineer)
+  - [Forward Deployed Engineer](#forward-deployed-engineer)
+  - [AI Platform & Data Engineer](#ai-platform--data-engineer)
+  - [AI Product Manager](#ai-product-manager)
+  - [AI Security Engineer / Red Teaming](#ai-security-engineer--red-teaming)
+  - [AI Governance, Ethics & Compliance Engineer](#ai-governance-ethics--compliance-engineer)
+  - [What Is Deliberately Out of Scope](#what-is-deliberately-out-of-scope)
+- [The Deliverable Triad: LinkedIn, Medium, GitHub](#the-deliverable-triad-linkedin-medium-github)
+  - [Published Presence + Passionate Narrative](#published-presence--passionate-narrative)
+- [Articles to Aim Toward (by niche × role)](#articles-to-aim-toward-by-niche--role)
+- [Week 1 Assignments](#week-1-assignments)
+  - [1. Define Your North Star](#1-define-your-north-star)
+  - [2. Claim Your Territory](#2-claim-your-territory)
+  - [3. Upgrade the Gourmet Party Planner App](#3-upgrade-the-gourmet-party-planner-app)
+- [The Quality Deep Work Framework](#the-quality-deep-work-framework)
+- [Where Lesson 1 Leaves You](#where-lesson-1-leaves-you)
 
 ## The Central Thesis
 
