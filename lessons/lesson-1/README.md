@@ -781,6 +781,63 @@ Use it the way you would use a worked solution in a math textbook: study the str
 
 </details>
 
+<details>
+<summary><strong>Bonus exercise: analyze any repo through the five concepts (Socratic)</strong></summary>
+
+A useful habit you should form this week: take a real codebase — your own Gourmet Party Planner build, AGEP, or literally any AI repo on GitHub — and dissect it through the lens of the five Foundational Concepts. The point is to make the concepts *applied*, not memorized.
+
+The example below uses [github.com/IrfanThomson/agep](https://github.com/IrfanThomson/agep) as the target repo — swap that URL for your own build (or any repo you want to study). Paste this into Claude or ChatGPT:
+
+```
+I'm studying agentic engineering and want to analyze a real project
+through the lens of the five Foundational Concepts from my cohort:
+
+I.   Agentic Loops — Plan / Act / Observe / Refine. Orchestration,
+     tool-use, multi-step reasoning. Principle: balance autonomous
+     action with verified state management.
+II.  The FinOps Stack — LLM vs SLM routing, prompt caching, token
+     economics. Principle: strategic routing — high-reasoning for
+     LLMs, low-cost/latency for SLMs.
+III. Dynamic AI Data — GraphRAG, knowledge systems, relational AI
+     memory. Principle: shift from search to relational knowledge
+     systems.
+IV.  Multimodal Reality — vision, video, spatial, screen-action.
+     Principle: AI interacting with the physical, analog, and
+     digital world in real time.
+V.   Engineering Rigor — observability, tracing, deterministic
+     evaluation. Principle: replace "vibes-based" testing with
+     scientific evaluation for non-deterministic systems.
+
+Target repo: https://github.com/IrfanThomson/agep
+(swap this URL for any GitHub repo you want to analyze)
+
+Read through the repo — README, source structure, key files — and
+engage me in a Socratic conversation about how each of the five
+concepts is applied, or deliberately not applied, in this project.
+
+Goal: lead me to articulate, in my own words, which concepts
+dominate the architecture, which are absent, and what the design
+consequences of those choices are.
+
+Rules:
+- Ask me one question at a time
+- Lead me toward the observation myself; don't tell me
+- Ground every question in something concrete from the repo (a
+  specific file, function, README claim, or design decision)
+- Never give me the answer unless I explicitly ask for it
+- If I'm circling, ask a more pointed question that nudges me
+  toward a specific design choice in the repo
+- After we've worked through the named concepts, the conversation
+  can flow wherever curiosity takes it — that's gravy
+
+Start by asking me which of the five concepts I'd like to begin
+with, or which one I think dominates the project.
+```
+
+Run this exercise on your own assignment build at the end of the week, then again on a project you admire. The first run shows you what your code reveals about the concepts you internalized. The second shows you what good looks like.
+
+</details>
+
 The three assignments are intentionally interlocking. The role tells you who you are becoming. The niche tells you what you are becoming known for. The app upgrade tells you how the work actually feels. None of them work in isolation.
 
 ## The Quality Deep Work Framework
