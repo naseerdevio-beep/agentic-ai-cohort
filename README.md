@@ -1,3 +1,7 @@
+📊 **Cohort Tracker:** https://docs.google.com/spreadsheets/d/REDACTED/edit?gid=2016529740#gid=2016529740
+
+---
+
 # 🚀 The AI Frontier: Agentic Engineering Residency
 ### Transforming Elite Talent into "Day 1" Ready AI Architects
 
