@@ -1,24 +1,16 @@
 # Project Plan Rubric
 
-Five yes/no checks. All five must be **yes** for the mentor to accept the plan.
+Fill these in before you start building. Blank row = that's the first thing to fix.
 
-**1. Concepts: 3 named, 2 basic + 1 expert?**
-Each basic concept names a specific stack and integration point. The expert concept names actual custom work — not *"we'll use [framework]."*
+**Niche menu** (pick from these only): Agentic loop depth • SLM parity / local inference • Multimodality • Data sovereignty • Adversarial-consensus • RAG sophistication • Tool synthesis • Post-loop specialist stage • Production-ready hardening
 
-**2. Problem: specific user, specific pain?**
-*"Triage assistant for Clinic X's intake form."* Not *"AI for healthcare."*
-
-**3. Why agentic, not a prompt?**
-One sentence justifying the loop. If a single prompt would do the job, simplify the project.
-
-**4. MVP scoped + one measurable success criterion?**
-MVP buildable in remaining cohort time. Success measured concretely — *"stays under budget on 9/10 cases,"* not *"works well."*
-
-**5. Deliverables named?**
-Code repo, demo format, LinkedIn post topic, Medium article topic — all tied to your role × niche from Assignment 1.
-
-Any **no**? Fix it before sending the plan to a mentor.
-
----
-
-**Group rule:** a team of N delivers MVP + (N−1) stretch goals. The 2-basic + 1-expert split applies per project, not per person.
+| # | What | Your answer |
+|---|---|---|
+| 1 | **Eval** — name a metric, a gold-standard set, and the number that means "ship it." | |
+| 2 | **Buildable in ~5 weeks** — sketch how this lands by week 8. | |
+| 3 | **3-min demo** — what tangible artifact will a client rep react to? | |
+| 4 | **Real buyer** — who pays for this, and what manual work does it replace? | |
+| 5 | **Real data** — name the source and how you'll legally get it. | |
+| 6 | **Lesson 1 (Concept, Role)** — what pair is this your flagship for? | |
+| 7 | **Expert niche (4/4)** — pick 1 from the menu. | |
+| 8 | **Basic niches (1/4)** — pick at least 2 from the menu. | |
