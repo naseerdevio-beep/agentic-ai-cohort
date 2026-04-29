@@ -2,15 +2,15 @@
 
 Fill these in before you start building. Blank row = that's the first thing to fix.
 
-**Niche menu** (pick from these only): Agentic loop depth • SLM parity / local inference • Multimodality • Data sovereignty • Adversarial-consensus • RAG sophistication • Tool synthesis • Post-loop specialist stage • Production-ready hardening
+**The five Foundational Concepts (from Lesson 1):** Agentic Loops • FinOps Stack • Dynamic AI Data • Multimodal Reality • Engineering Rigor
 
 | # | What | Your answer |
 |---|---|---|
-| 1 | **Eval** — name a metric, a gold-standard set, and the number that means "ship it." | |
+| 1 | **Success criteria** — a measurable target you're trying to reach (accuracy, latency, cost-per-task — whatever fits). How will you measure it? | |
 | 2 | **Buildable in ~5 weeks** — sketch how this lands by week 8. | |
 | 3 | **3-min demo** — what tangible artifact will a client rep react to? | |
 | 4 | **Real buyer** — who pays for this, and what manual work does it replace? | |
 | 5 | **Real data** — name the source and how you'll legally get it. | |
-| 6 | **Lesson 1 (Concept, Role)** — what pair is this your flagship for? | |
-| 7 | **Expert niche (4/4)** — pick 1 from the menu. | |
-| 8 | **Basic niches (1/4)** — pick at least 2 from the menu. | |
+| 6 | **Your role** — which of the six Lesson 1 roles is this project your flagship for? | |
+| 7 | **Expert concept** — pick 1 of the five (the one you commit to going deep on). | |
+| 8 | **Basic concepts** — pick at least 2 of the five (you'll integrate working examples of these). | |
