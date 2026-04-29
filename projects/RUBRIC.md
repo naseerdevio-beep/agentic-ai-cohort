@@ -10,6 +10,6 @@ Fill these in before you start building. Blank row = that's the first thing to f
 | 2 | **Buildable in ~5 weeks** — sketch how this lands by week 8. | |
 | 3 | **3-min demo** — what tangible artifact will a client rep react to? | |
 | 4 | **Real data** — name the source and how you'll legally get it. | |
-| 5 | **Your role** — which of the six Lesson 1 roles is this project your flagship for? | |
+| 5 | **Your role** — which of the six Lesson 1 roles is this project your flagship for, and how does this build prove your fit for it? | |
 | 6 | **Expert concept** — pick 1 of the five (the one you commit to going deep on). | |
 | 7 | **Basic concepts** — pick at least 2 of the five (you'll integrate working examples of these). | |
