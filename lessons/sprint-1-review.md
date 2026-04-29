@@ -32,6 +32,8 @@ No one is behind. We're aligning.
 
 # 1. Cohort milestones
 
+![Cohort roadmap timeline](lesson-1/images/roadmap-timeline-2.png)
+
 The 6-milestone roadmap:
 
 1. **Orientation** — understand the landscape
@@ -51,6 +53,8 @@ Why this matters: knowing the arc lets you **pace yourself**. The cohort rewards
 
 # 2. Technical niche goals
 
+![Claiming your specialized domain — the 5 pillars](lesson-1/images/five-pillars-4.png)
+
 The five foundational concepts. Pick **one** as your SME niche for publishing. Pick **three** to cover in your project (2 basic + 1 expert).
 
 | Niche | What it is | Where it shows up |
@@ -63,9 +67,23 @@ The five foundational concepts. Pick **one** as your SME niche for publishing. P
 
 You don't need to know all five deeply. You need to know **one** deeply and **three** well enough to ship a project.
 
+**Each niche, slide-by-slide:**
+
+![I. Agentic Loops](lesson-1/images/concept-agentic-loops-3.png)
+
+![II. The FinOps Stack](lesson-1/images/concept-finops-4.png)
+
+![III. Dynamic AI Data](lesson-1/images/concept-dynamic-data-5.png)
+
+![IV. Multimodal Reality](lesson-1/images/concept-multimodal-6.png)
+
+![V. Engineering Rigor](lesson-1/images/concept-rigor-7.png)
+
 ---
 
 # 3. Technical role goals
+
+![Six AI engineering roles in scope](lesson-1/images/roles-grid-02.png)
 
 The six roles in scope:
 
@@ -109,6 +127,8 @@ Read these like a math textbook. Study the structure. Notice the design choices.
 ---
 
 # 5. Project proposal — the content perspective
+
+![The deliverable triad — code, post, article](lesson-1/images/deliverable-triad-7.png)
 
 This is your **portfolio piece** and the **substrate** for your LinkedIn + Medium publishing.
 
