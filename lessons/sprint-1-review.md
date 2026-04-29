@@ -175,7 +175,7 @@ Instead, all of Sprint 1 comes with **one unified Verified Socratic Prompt** tha
 3. If stuck on the same question for 10 min → office hours, with the transcript
 4. **Ship something using it** — understanding without building is forgetting
 
-## The Verified Socratic Prompt — copy this
+## The Socratic Prompt — copy this
 
 Paste this into a fresh Claude conversation. It walks you through every piece of Sprint 1 content, milestone by milestone.
 
