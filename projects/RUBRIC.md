@@ -13,3 +13,4 @@ Fill these in before you start building. Blank row = that's the first thing to f
 | 5 | **Your role** — which of the six Lesson 1 roles is this project your flagship for, and how does this build prove your fit for it? | |
 | 6 | **Expert concept** — pick 1 of the five (the one you commit to going deep on). | |
 | 7 | **Basic concepts** — pick at least 2 of the five (you'll integrate working examples of these). | |
+| 8 | **Industry research** — show you've scanned the space. Cite 2–3 existing players or tools, then explain what's missing or where you push further. Why is this cutting edge *right now*? | |
